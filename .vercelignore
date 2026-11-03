@@ -1,0 +1,5 @@
+pipeline/
+tests/
+docs/
+.cache/
+.github/

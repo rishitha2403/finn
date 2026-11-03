@@ -1,0 +1,23 @@
+{
+  "portfolio": [
+    {"symbol": "RELIANCE", "name": "Reliance Industries", "sector": "Energy & telecom", "size": "Large", "bse": "500325"},
+    {"symbol": "HDFCBANK", "name": "HDFC Bank", "sector": "Banks", "size": "Large", "bse": "500180"},
+    {"symbol": "BAJFINANCE", "name": "Bajaj Finance", "sector": "NBFC", "size": "Large", "bse": "500034"},
+    {"symbol": "TCS", "name": "Tata Consultancy Services", "sector": "IT services", "size": "Large", "bse": "532540"},
+    {"symbol": "PERSISTENT", "name": "Persistent Systems", "sector": "IT services", "size": "Mid", "bse": "533179"},
+    {"symbol": "BHARTIARTL", "name": "Bharti Airtel", "sector": "Telecom", "size": "Large", "bse": "532454"},
+    {"symbol": "LT", "name": "Larsen & Toubro", "sector": "Capital goods", "size": "Large", "bse": "500510"},
+    {"symbol": "HAL", "name": "Hindustan Aeronautics", "sector": "Defence", "size": "Large", "bse": "541154"},
+    {"symbol": "POLYCAB", "name": "Polycab India", "sector": "Cables & wires", "size": "Mid", "bse": "542652"},
+    {"symbol": "DIXON", "name": "Dixon Technologies", "sector": "Electronics mfg", "size": "Mid", "bse": "540699"},
+    {"symbol": "ITC", "name": "ITC", "sector": "FMCG", "size": "Large", "bse": "500875"},
+    {"symbol": "ASIANPAINT", "name": "Asian Paints", "sector": "Paints", "size": "Large", "bse": "500820"},
+    {"symbol": "TITAN", "name": "Titan Company", "sector": "Consumer", "size": "Large", "bse": "500114"},
+    {"symbol": "TRENT", "name": "Trent", "sector": "Retail", "size": "Large", "bse": "500251"},
+    {"symbol": "DMART", "name": "Avenue Supermarts", "sector": "Retail", "size": "Large", "bse": "540376"},
+    {"symbol": "MARUTI", "name": "Maruti Suzuki", "sector": "Autos", "size": "Large", "bse": "532500"},
+    {"symbol": "SUNPHARMA", "name": "Sun Pharma", "sector": "Pharma", "size": "Large", "bse": "524715"},
+    {"symbol": "DEEPAKNTR", "name": "Deepak Nitrite", "sector": "Chemicals", "size": "Mid", "bse": "506401"}
+  ],
+  "research_demo": ["PIDILITIND", "ASTRAL", "HAVELLS", "KEI"]
+}

@@ -1,0 +1,6 @@
+-r ../requirements.txt
+yfinance>=0.2.50
+pandas>=2.1
+bse>=3.3
+nse>=5.1
+pytest>=8
